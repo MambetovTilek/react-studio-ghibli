@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-studio-ghibli/static/css/main.337134c9.css",
-    "main.js": "/react-studio-ghibli/static/js/main.8bf6ef9b.js",
+    "main.js": "/react-studio-ghibli/static/js/main.b71e6b62.js",
     "index.html": "/react-studio-ghibli/index.html",
     "main.337134c9.css.map": "/react-studio-ghibli/static/css/main.337134c9.css.map",
-    "main.8bf6ef9b.js.map": "/react-studio-ghibli/static/js/main.8bf6ef9b.js.map"
+    "main.b71e6b62.js.map": "/react-studio-ghibli/static/js/main.b71e6b62.js.map"
   },
   "entrypoints": [
     "static/css/main.337134c9.css",
-    "static/js/main.8bf6ef9b.js"
+    "static/js/main.b71e6b62.js"
   ]
 }
